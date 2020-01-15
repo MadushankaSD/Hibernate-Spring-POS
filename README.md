@@ -14,7 +14,9 @@ Use appropriate Dependency with your local machine minimum requirement.
 This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
 <li>Maven</li>
-<li>JPA</li>
+<li>Hibernate</li>
+<li>Spring</li>
+<br>
 
 **Requirement**
 
